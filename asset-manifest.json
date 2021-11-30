@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/octopus-nft-game/static/css/main.8113fd0e.chunk.css",
+    "main.js": "/octopus-nft-game/static/js/main.21e924c8.chunk.js",
+    "main.js.map": "/octopus-nft-game/static/js/main.21e924c8.chunk.js.map",
+    "runtime-main.js": "/octopus-nft-game/static/js/runtime-main.8ba18bca.js",
+    "runtime-main.js.map": "/octopus-nft-game/static/js/runtime-main.8ba18bca.js.map",
+    "static/css/2.383c0125.chunk.css": "/octopus-nft-game/static/css/2.383c0125.chunk.css",
+    "static/js/2.8f37164b.chunk.js": "/octopus-nft-game/static/js/2.8f37164b.chunk.js",
+    "static/js/2.8f37164b.chunk.js.map": "/octopus-nft-game/static/js/2.8f37164b.chunk.js.map",
+    "index.html": "/octopus-nft-game/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/octopus-nft-game/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.8113fd0e.chunk.css.map": "/octopus-nft-game/static/css/main.8113fd0e.chunk.css.map",
+    "static/js/2.8f37164b.chunk.js.LICENSE.txt": "/octopus-nft-game/static/js/2.8f37164b.chunk.js.LICENSE.txt",
+    "static/media/octopus.356795ca.svg": "/octopus-nft-game/static/media/octopus.356795ca.svg",
+    "static/media/octopus.a3fb645d.png": "/octopus-nft-game/static/media/octopus.a3fb645d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ba18bca.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.8f37164b.chunk.js",
+    "static/css/main.8113fd0e.chunk.css",
+    "static/js/main.21e924c8.chunk.js"
+  ]
+}
