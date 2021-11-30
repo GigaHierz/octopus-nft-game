@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Octopus NFT Game
+
+This is the deployed webapp from my final project for the Blockchain Developer Bootcamp 2021. ProjectCode can be found [here](https://github.com/GigaHierz/blockchain-developer-bootcamp-final-project).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
